@@ -13,6 +13,7 @@
 <p align="center">
 <a href="https://twitter.com/Keith45865381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keith" height="30" width="40" /></a>
 <a href="https://www.facebook.com/keith.alcantara.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keith alcantara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/keith-alcantara-463243253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keith alcantara" height="30" width="40" /></a>
 </p><br><br>
 
 <h3 align="center">Languages and Tools:</h3>
