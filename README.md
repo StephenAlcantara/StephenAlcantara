@@ -1,11 +1,12 @@
-<h1 align="center">Heyas, I'm Keith Stephen Earl J. Alcantara!</h1>
+
+<h1 align="center">Heyas, I'm Keith!</h1>
 <h3 align="center">I am a graduating IT student and aspiring Front-end developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stephenalcantara&label=Profile%20views&color=0e75b6&style=flat" alt="stephenalcantara" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephenalcantara" alt="stephenalcantara" /></a> </p>
 
-<p align="center"> - 🌱 I’m currently learning <kbd>TailwindCSS</kbd>, <kbd>React</kbd> </p>
+<p align="center"> - 🌱 I’m currently learning <kbd>TailwindCSS</kbd> <kbd>React</kbd> </p>
 
 <p align="center"> - 📫 How to reach me <code>keithalcantara13@gmail.com</code> </p><br><br>
 
