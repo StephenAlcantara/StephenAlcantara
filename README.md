@@ -8,7 +8,7 @@
 
 <p align="center"> - 🌱 I’m currently learning <kbd>TailwindCSS</kbd> <kbd>React</kbd> </p>
 
-<p align="center"> - 📫 How to reach me <code>keithalcantara13@gmail.com</code></p><br><br>
+<p align="center"> - 📫 How to reach me <code>keithalcantara13@gmail.com</code> </p><br><br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
